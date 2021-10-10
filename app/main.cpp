@@ -3,9 +3,10 @@
 
 int main()
 {
-    AnalogSensor lightSensor(5);
+    auto i = 5;
+    AnalogSensor lightSensor(i);
     std::cout << "Averaged sensor reading: " << lightSensor.Read() << std::endl;
-    bool terminator;
+    bool terminator = 1;
     if( terminator )
     {
         std::cout << "DONE" << std::endl;
