@@ -1,10 +1,10 @@
 ## valgrind_exercises
 ## Overview
 
-Submission for ENPM 808X Valgrind Exercises
-before.txt - Shows valgrind output before code rectifications
-after.txt - Shows valgrind output after code rectifications
-KCachegrind.png - KCachegrind output screenshot
+- Submission for ENPM 808X Valgrind Exercises
+- before.txt - Shows valgrind output before code rectifications
+- after.txt - Shows valgrind output after code rectifications
+- KCachegrind.png - KCachegrind output screenshot
 
 ## Standard install via command-line
 ```
