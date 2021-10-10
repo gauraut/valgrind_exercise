@@ -1,18 +1,12 @@
-# C++ Boilerplate
-[![Build Status](https://travis-ci.org/dpiet/cpp-boilerplate.svg?branch=master)](https://travis-ci.org/dpiet/cpp-boilerplate)
-[![Coverage Status](https://coveralls.io/repos/github/dpiet/cpp-boilerplate/badge.svg?branch=master)](https://coveralls.io/github/dpiet/cpp-boilerplate?branch=master)
----
-
+## valgrind_exercises
 ## Overview
 
-Simple starter C++ project with:
+Submission for ENPM 808X Valgrind Exercises
 
-- cmake
-- googletest
 
 ## Standard install via command-line
 ```
-git clone --recursive https://github.com/dpiet/cpp-boilerplate
+git clone --recursive https://github.com/gauraut/valgrind_exercise.git
 cd <path to repository>
 mkdir build
 cd build
